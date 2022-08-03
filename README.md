@@ -1,4 +1,4 @@
- 🔥 ## 🎓 Curso de Egenheraria de Software ## 🔥
+ ## 🔥🎓 Curso de Egenheraria de Software 🔥 ## 
 
 📌 1. Desenvolver uma nova funcionalidade para o software da locadora cliente da empresa
 - Você deverá elaborar um algoritmo utilizando a linguagem natural(mais próximo possível da realidade, diagramas de blocos (fluxogramas) e pseudocódigos;

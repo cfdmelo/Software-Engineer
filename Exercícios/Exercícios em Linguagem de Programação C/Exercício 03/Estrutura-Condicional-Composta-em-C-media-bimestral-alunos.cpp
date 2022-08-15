@@ -1,6 +1,6 @@
-/* DESAFIO 2: O usu·rio (possivelmente o professor) dever· entrar com dois valores que representam as notas de um aluno em cada bimestre, e o computador 
-retornar· o resultado da mÈdia desses valores (mÈdia das notas). Ent„o, se a mÈdia for maior ou igual a 6.0 (seis), o aluno est· aprovado; caso contr·rio, 
-est· reprovado.*/
+/* DESAFIO 3: O usu√°rio (possivelmente o professor) dever√° entrar com dois valores que representam as notas de um aluno em cada bimestre, e o computador 
+retornar√° o resultado da m√©dia desses valores (m√©dia das notas). Ent√£o, se a m√©dia for maior ou igual a 6.0 (seis), o aluno est√° aprovado; caso contr√°rio, 
+est√° reprovado.*/
 
 #include <stdio.h>
 

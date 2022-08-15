@@ -1,5 +1,5 @@
-/* DESAFIO 3 - operaÁ„o em um caixa eletrÙnico. Uma das primeiras atividades que o usu·rio deve realizar apÛs ter se identificado È selecionar a 
-operaÁ„o a ser executada. Por exemplo: verificar saldo, emitir extrato, saque e sair. */
+/* DESAFIO 5 - opera√ß√£o em um caixa eletr√¥nico. Uma das primeiras atividades que o usu√°rio deve realizar ap√≥s ter se identificado √© selecionar a 
+opera√ß√£o a ser executada. Por exemplo: verificar saldo, emitir extrato, saque e sair. */
 
 #include<stdio.h>
 
@@ -22,11 +22,11 @@ int main (){
 	printf("\nEnter the amount to withdraw: ");
 	scanf("%f", &value);
 	printf("Value: %.2f", value);
-	}if (number == 3 and value < balance){  // Colocr if aqui pois j· existe uma condiÁ„o anterior com "3"
+	}if (number == 3 and value < balance){  // Colocr if aqui pois j√° existe uma condi√ß√£o anterior com "3"
 	extract = (balance - value);
 	printf("\nRelease cash: %.2f", value);
 	printf("\nCheking Balance: %.2f", extract);
-	}if (number == 3 and value > balance){  // Colocr if aqui pois j· existe uma condiÁ„o anterior com "3"
+	}if (number == 3 and value > balance){  // Colocr if aqui pois j√° existe uma condi√ß√£o anterior com "3"
 	printf ("\nYou have exceeded the maximum allowed value");
 	}else if (number == 4){
 	printf("Exiting");	

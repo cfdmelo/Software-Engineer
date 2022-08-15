@@ -1,6 +1,7 @@
 /* DESAFIO 3 - operação em um caixa eletrônico. Uma das primeiras atividades que o usuário deve realizar após ter se identificado é selecionar a 
 operação a ser executada. Por exemplo: verificar saldo, emitir extrato, saque e sair. */
 
+
 #include<stdio.h>
 
 int main (){
